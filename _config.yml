@@ -1,0 +1,29 @@
+name: Anooky
+favicon: null
+layout_spectrum: 0.09877097490243614
+typography_spectrum: 0.884539247257635
+title: Anooky
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16744918329641223
+  lightness: 0.7807721495628357
+  saturation: 0.9055681312456727
+  rhythmicContrast: 0.5768662383779883
+purpose: []
